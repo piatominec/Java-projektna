@@ -13,4 +13,4 @@ V programu Eclipse je prejekt SnakeGame in zaženemo z :
 snake.AdvancedSnakeGame
 
 # POSNETEK
-https://youtu.be/ZCPutPopOi4
+https://youtu.be/J-1shKGzA-o
